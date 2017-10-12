@@ -1,0 +1,9 @@
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\bin\Release\FreshmanTrainingProject.exe.config
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\bin\Release\FreshmanTrainingProject.exe
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\bin\Release\FreshmanTrainingProject.pdb
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\obj\Release\FreshmanTrainingProject.ImageProcessing.resources
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\obj\Release\FreshmanTrainingProject.Properties.Resources.resources
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\obj\Release\FreshmanTrainingProject.csproj.GenerateResource.Cache
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\obj\Release\FreshmanTrainingProject.exe
+C:\Users\VSLab\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\obj\Release\FreshmanTrainingProject.pdb
+C:\Users\VSLAB\Desktop\FreshmanTrainingProject\FreshmanTrainingProject\obj\Release\FreshmanTrainingProject.csprojResolveAssemblyReference.cache
