@@ -1,0 +1,3 @@
+C:\Users\VSLAB\Desktop\VS2013_P76064473\ImageProcessingHomework1\bin\Debug\FreshmanTrainingProject.exe.config
+C:\Users\VSLAB\Desktop\VS2013_P76064473\ImageProcessingHomework1\obj\Debug\FreshmanTrainingProject.exe
+C:\Users\VSLAB\Desktop\VS2013_P76064473\ImageProcessingHomework1\obj\Debug\FreshmanTrainingProject.pdb
