@@ -1,4 +1,4 @@
-# FreshmanTrainingProject
+# ImageProcessing
 
 1.	RGB Extraction & transformation
 2.	Smooth filter ( mean & median )
